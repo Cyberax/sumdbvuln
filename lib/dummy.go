@@ -1,5 +1,5 @@
 package lib
 
 func ExportedFunc() {
-	println("Good version")
+	println("Sneaky version")
 }
